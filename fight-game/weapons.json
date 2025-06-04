@@ -1,0 +1,52 @@
+{
+    "fists": {
+      "basic_punch": {
+        "dmg": 30,
+        "range": 50,
+        "duration": 0.2,
+        "size": [50, 50],
+        "cost": 0
+      },
+      "heavy_punch": {
+        "dmg": 50,
+        "range": 40,
+        "duration": 0.4,
+        "size": [60, 60],
+        "cost": 10
+      },
+      "dash_punch": {
+        "dmg": 40,
+        "range": 100,
+        "duration": 0.3,
+        "size": [70, 40],
+        "cost": 15
+      }
+    },
+    "guns": {
+    "pistol": {
+      "dmg": 12,
+      "ammo": 12,
+      "reload_speed": 1.2,
+      "firerate": 0.1,
+      "mode": "manual",
+      "cost": 0
+    },
+    "sniper": {
+      "dmg": 34,
+      "ammo": 6,
+      "reload_speed": 1.8,
+      "firerate": 1.0,
+      "mode": "manual",
+      "cost": 10
+    },
+    "rifle": {
+      "dmg": 6,
+      "ammo": 30,
+      "reload_speed": 2.5,
+      "firerate": 0.02,
+      "mode": "auto",
+      "cost": 20
+    }
+  }
+  }
+  
